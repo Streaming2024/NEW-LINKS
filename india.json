@@ -1,0 +1,60 @@
+{
+  "events": [
+
+
+
+    {
+      "name": "Smooth 1 -IND vs ENG   ",
+      "link": "https://nirutv.online/Player/page.html?src=https://nirutv.online/wtv"
+    },
+
+
+    
+    {
+      "name": "Smooth 2 -IND vs ENG  ",
+      "link": "https://nirutv.online/VIP/ads.html"
+    },
+
+ 
+{
+      "name": "Smooth  3 -IND vs ENG  ",
+      "link": "https://nirutv.online/Player/page.html?src=https://nirutv.online/Player/mplyrr?url=https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master_2000.m3u8"
+    },
+    {
+      "name": "Hindi HD Link 1 -IND vs ENG  ",
+      "link": "https://nirutv.online/Player/page2.html?src=https://nirutv.online/Player/mplyrr?url=https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_2000.m3u8"
+    },
+    {
+      "name": "Hindi HD Link 2 -IND vs ENG  ",
+      "link": "https://nirutv.online/VIP/ads.html"
+    },
+{
+      "name": "Hindi HD Link 3 -IND vs ENG  ",
+      "link": "https://nirutv.online/Player/page2.html?src=https://sonyten3sports.netlify.app/"
+    },
+
+    
+ {
+      "name": "Full HD Link 1 -IND vs ENG  ",
+      "link": "https://nirutv.online/Player/page2.html?src=https://embedsports.top/embed/echo/england-vs-india-fourth-test-mens-test-series-t20-women/2"
+    },
+
+{
+      "name": "Full HD Link 2 -IND vs ENG   ",
+      "link": "https://nirutv.online/Player/page2.html?src=https://embedsports.top/embed/echo/england-vs-india-fourth-test-mens-test-series-t20-women/1"
+    },
+    
+ {
+      "name": "Full HD Link 3-IND vs ENG   ",
+      "link": "https://nirutv.online/Player/page2.html?src=https://sonyten1sports.netlify.app"
+    
+    }
+
+
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
